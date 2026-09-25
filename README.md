@@ -59,7 +59,7 @@ No external dependencies — pure Python 3.7+ standard library
 ## Running it
 
 ```bash
-git clone https://github.com/<your-username>/plc-ladder-logic-simulator.git
+git clone https://github.com/AdiDev1512006/plc-ladder-logic-simulator.git
 cd plc-ladder-logic-simulator
 python3 plc_ladder_sim.py
 ```
